@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MV-Music/static/css/main.ec3a847a.css",
+    "main.js": "/MV-Music/static/js/main.7ab3bd1b.js",
+    "static/js/787.0a33ded9.chunk.js": "/MV-Music/static/js/787.0a33ded9.chunk.js",
+    "index.html": "/MV-Music/index.html",
+    "main.ec3a847a.css.map": "/MV-Music/static/css/main.ec3a847a.css.map",
+    "main.7ab3bd1b.js.map": "/MV-Music/static/js/main.7ab3bd1b.js.map",
+    "787.0a33ded9.chunk.js.map": "/MV-Music/static/js/787.0a33ded9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3a847a.css",
+    "static/js/main.7ab3bd1b.js"
+  ]
+}
